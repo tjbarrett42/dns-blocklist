@@ -1,3 +1,6 @@
 # Snapchat stories
 
 0.0.0.0 cf-st.sc-cdn.net
+0.0.0.0 mvm-snapchat.com
+0.0.0.0 feelinsonice-mvm.l.google.com
+0.0.0.0 gt16.sct.sc-prod.net
