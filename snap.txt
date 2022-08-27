@@ -1,3 +1,4 @@
 # Snapchat stories
 
+0.0.0.0 cf-st.sc-cdn.net
 ^((us-(west|east|north|south|central)[0-9]-gc(p|s))|app(-analytics(-v[1-9])?)?|mvm|webattachments|aw(s)?|gc(p|s)|gtq6|bolt-gcdn|snapchat-payments-gateway)(\.(sct|api|duplex))?\.(snapchat|(sc-(cdn|prod)))\.(net|com)$
